@@ -1,8 +1,9 @@
 # EV3USBConnect
 
 Native Java wrapper of hid api for JavaForEV3 project
+
 Собирается в jar библиотеку, содержащую нативные методы для работы с usb портом, как с потоковым вводом\выводом массива байт
-Применяется в [JavaForEV32](https://github.com/megavice1753/JavaForEV32) в качестве реализации ICommunicator
+Применяется в [JavaForEV32](https://github.com/megavice1753/JavaForEV32) в качестве реализации **ICommunicator**
 
 1. add native method
 
